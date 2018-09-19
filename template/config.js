@@ -1,0 +1,1 @@
+export const shop_id = 20872
